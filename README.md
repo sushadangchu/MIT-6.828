@@ -3,4 +3,4 @@
 ## 目录
 1. [Ubuntu实验环境搭建](TOOLS/README.md)
 ## 官方文档
-- [官方文档](doc/book-riscv-rev0.pdf)
+- [xv6 book](doc/book-riscv-rev0.pdf)
